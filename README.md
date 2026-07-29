@@ -18,6 +18,12 @@ The WayMaker Project bridges real-world advanced rail infrastructure with access
 | High School / CTE Trade | Hardware Assembly & Mesh Setup | Wire a multi-node sensor array that relays vibration data down a model track. |
 | Dual-Enrollment / College | Firmware, Security & Edge Data | Flash hardware keys to silicon and construct a secure, offline packet-processing mesh. |
 
+## Youth Support & Applied Learning Extensions
+In addition to technical modules, WayMaker includes youth-centered extensions that strengthen teamwork, analytical confidence, and emotional resilience:
+- Group Colab & Mesh Lab (team-based hardware assembly + mesh relay challenges)
+- Digital Forensics & Data Research (sensor anomaly detection + diagnostic reporting)
+- Coping with Loss & Trauma (grief-informed support tools, peer connection, and caregiver guidance)
+
 ## Immediate Goals
 - Launch an educator-friendly prototype curriculum.
 - Demonstrate real rail-inspired engineering concepts.
